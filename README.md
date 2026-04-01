@@ -1,16 +1,53 @@
-# React + Vite
+# 🚀 Pratyush Rawat Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A futuristic, fully responsive portfolio website built using modern web technologies.  
+Designed with premium UI, smooth animations, and real-world functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔥 Live Preview
+👉 (Add your deployed link here later)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧑‍💻 About Me
 
-## Expanding the ESLint configuration
+Hi, I'm **Pratyush Rawat**, a MERN Stack Developer passionate about building modern, scalable, and visually appealing web applications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚡ Features
+
+- 🌐 Fully Responsive Design
+- 🎨 Futuristic UI (Glassmorphism + Neon Effects)
+- 📱 Mobile Optimized
+- 🚀 Smooth Animations (Framer Motion)
+- 📩 Contact Form with EmailJS Integration
+- 📄 Resume Viewer + Download
+- 🔥 Projects Showcase
+- 📊 Skills Section
+- 🎓 Education & Training Timeline
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Framer Motion
+
+### Backend (Projects)
+- Node.js
+- Express.js
+- MongoDB
+
+### Tools
+- Git & GitHub
+- VS Code
+- Thunder Client
+- EmailJS
+
+---
+
+## 📂 Folder Structure
